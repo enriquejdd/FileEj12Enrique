@@ -1,0 +1,20 @@
+{
+  "codigo" : 47,
+  "nombre" : "app47w",
+  "descripcion" : "Aplicacion de Compras",
+  "tamanioKB" : 696.6131485480513,
+  "fecCreacion" : {
+    "year" : 1997,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 7,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 219,
+    "era" : "CE"
+  }
+}

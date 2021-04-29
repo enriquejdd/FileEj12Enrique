@@ -1,0 +1,20 @@
+{
+  "codigo" : 7,
+  "nombre" : "app7a",
+  "descripcion" : "Aplicacion de Videos",
+  "tamanioKB" : 689.991592708228,
+  "fecCreacion" : {
+    "year" : 2021,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 79,
+    "era" : "CE"
+  }
+}

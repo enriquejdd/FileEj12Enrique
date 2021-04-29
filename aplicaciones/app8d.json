@@ -1,0 +1,20 @@
+{
+  "codigo" : 8,
+  "nombre" : "app8d",
+  "descripcion" : "Aplicacion de Juegos",
+  "tamanioKB" : 753.6765414925009,
+  "fecCreacion" : {
+    "year" : 1997,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 70,
+    "era" : "CE"
+  }
+}

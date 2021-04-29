@@ -1,0 +1,20 @@
+{
+  "codigo" : 32,
+  "nombre" : "app32z",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 520.6736291564507,
+  "fecCreacion" : {
+    "year" : 2000,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "dayOfYear" : 28,
+    "era" : "CE"
+  }
+}

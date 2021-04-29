@@ -1,0 +1,20 @@
+{
+  "codigo" : 12,
+  "nombre" : "app12a",
+  "descripcion" : "Aplicacion de Llamadas",
+  "tamanioKB" : 902.8475421579257,
+  "fecCreacion" : {
+    "year" : 2002,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 209,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 30,
+  "nombre" : "app30t",
+  "descripcion" : "Aplicacion de Compras",
+  "tamanioKB" : 130.57011932128543,
+  "fecCreacion" : {
+    "year" : 2001,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 71,
+    "era" : "CE"
+  }
+}

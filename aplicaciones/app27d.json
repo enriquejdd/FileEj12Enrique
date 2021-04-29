@@ -1,0 +1,20 @@
+{
+  "codigo" : 27,
+  "nombre" : "app27d",
+  "descripcion" : "Aplicacion de Creación",
+  "tamanioKB" : 220.05784758525374,
+  "fecCreacion" : {
+    "year" : 1996,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "dayOfYear" : 55,
+    "era" : "CE"
+  }
+}

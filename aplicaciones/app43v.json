@@ -1,0 +1,20 @@
+{
+  "codigo" : 43,
+  "nombre" : "app43v",
+  "descripcion" : "Aplicacion de Viajes",
+  "tamanioKB" : 784.6628916811759,
+  "fecCreacion" : {
+    "year" : 2021,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 11,
+    "era" : "CE"
+  }
+}

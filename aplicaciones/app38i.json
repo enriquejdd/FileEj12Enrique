@@ -1,0 +1,20 @@
+{
+  "codigo" : 38,
+  "nombre" : "app38i",
+  "descripcion" : "Aplicacion de Desarrollo",
+  "tamanioKB" : 663.9179837909794,
+  "fecCreacion" : {
+    "year" : 1996,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 157,
+    "era" : "CE"
+  }
+}

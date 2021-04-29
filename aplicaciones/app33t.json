@@ -1,0 +1,20 @@
+{
+  "codigo" : 33,
+  "nombre" : "app33t",
+  "descripcion" : "Aplicacion de Llamadas",
+  "tamanioKB" : 168.18884974418776,
+  "fecCreacion" : {
+    "year" : 2014,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 224,
+    "era" : "CE"
+  }
+}

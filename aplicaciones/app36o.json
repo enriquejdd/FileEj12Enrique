@@ -1,0 +1,20 @@
+{
+  "codigo" : 36,
+  "nombre" : "app36o",
+  "descripcion" : "Aplicacion de Cuentas",
+  "tamanioKB" : 833.6912151012367,
+  "fecCreacion" : {
+    "year" : 2000,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 30,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 335,
+    "era" : "CE"
+  }
+}

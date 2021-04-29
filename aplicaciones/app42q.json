@@ -1,0 +1,20 @@
+{
+  "codigo" : 42,
+  "nombre" : "app42q",
+  "descripcion" : "Aplicacion de Juegos",
+  "tamanioKB" : 757.976616159714,
+  "fecCreacion" : {
+    "year" : 2011,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 147,
+    "era" : "CE"
+  }
+}

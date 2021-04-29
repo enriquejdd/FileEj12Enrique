@@ -1,0 +1,20 @@
+{
+  "codigo" : 22,
+  "nombre" : "app22r",
+  "descripcion" : "Aplicacion de Cuentas",
+  "tamanioKB" : 214.16644282194144,
+  "fecCreacion" : {
+    "year" : 2021,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 15,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 105,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 49,
+  "nombre" : "app49g",
+  "descripcion" : "Aplicacion de Desarrollo",
+  "tamanioKB" : 896.4157164903476,
+  "fecCreacion" : {
+    "year" : 2004,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 4,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "dayOfYear" : 95,
+    "era" : "CE"
+  }
+}

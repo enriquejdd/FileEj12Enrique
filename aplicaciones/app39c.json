@@ -1,0 +1,20 @@
+{
+  "codigo" : 39,
+  "nombre" : "app39c",
+  "descripcion" : "Aplicacion de Mensajeria",
+  "tamanioKB" : 288.496600020562,
+  "fecCreacion" : {
+    "year" : 2015,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 208,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 26,
+  "nombre" : "app26u",
+  "descripcion" : "Aplicacion de Compras",
+  "tamanioKB" : 405.46387834522784,
+  "fecCreacion" : {
+    "year" : 2012,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "dayOfYear" : 286,
+    "era" : "CE"
+  }
+}

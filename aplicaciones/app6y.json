@@ -1,0 +1,20 @@
+{
+  "codigo" : 6,
+  "nombre" : "app6y",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 656.0866471521333,
+  "fecCreacion" : {
+    "year" : 2014,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 77,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 11,
+  "nombre" : "app11o",
+  "descripcion" : "Aplicacion de Videos",
+  "tamanioKB" : 607.0210115300222,
+  "fecCreacion" : {
+    "year" : 1999,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 119,
+    "era" : "CE"
+  }
+}

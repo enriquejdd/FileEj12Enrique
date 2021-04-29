@@ -1,0 +1,20 @@
+{
+  "codigo" : 37,
+  "nombre" : "app37n",
+  "descripcion" : "Aplicacion de Cuentas",
+  "tamanioKB" : 441.1404224595181,
+  "fecCreacion" : {
+    "year" : 2007,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 143,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 24,
+  "nombre" : "app24o",
+  "descripcion" : "Aplicacion de Compras",
+  "tamanioKB" : 1000.548016995091,
+  "fecCreacion" : {
+    "year" : 2022,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 263,
+    "era" : "CE"
+  }
+}

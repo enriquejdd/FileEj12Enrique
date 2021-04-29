@@ -1,0 +1,20 @@
+{
+  "codigo" : 46,
+  "nombre" : "app46b",
+  "descripcion" : "Aplicacion de Llamadas",
+  "tamanioKB" : 105.35207284793736,
+  "fecCreacion" : {
+    "year" : 1995,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 29,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 272,
+    "era" : "CE"
+  }
+}

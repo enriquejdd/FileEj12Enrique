@@ -1,0 +1,20 @@
+{
+  "codigo" : 9,
+  "nombre" : "app9u",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 483.6351740250803,
+  "fecCreacion" : {
+    "year" : 2009,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 117,
+    "era" : "CE"
+  }
+}

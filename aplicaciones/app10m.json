@@ -1,0 +1,20 @@
+{
+  "codigo" : 10,
+  "nombre" : "app10m",
+  "descripcion" : "Aplicacion de Llamadas",
+  "tamanioKB" : 930.3483307672826,
+  "fecCreacion" : {
+    "year" : 2009,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 6,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 6,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appXML>
+    <AppXML>
+        <Apps>
+            <codigo>0</codigo>
+            <nombre>app0j</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>204.10329624504823</tamanioKB>
+            <fecCreacion>1995-09-23</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>1</codigo>
+            <nombre>app1b</nombre>
+            <descripcion>Aplicacion de Viajes</descripcion>
+            <tamanioKB>262.01767159747624</tamanioKB>
+            <fecCreacion>2020-09-07</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>2</codigo>
+            <nombre>app2q</nombre>
+            <descripcion>Aplicacion de Creación</descripcion>
+            <tamanioKB>159.96923905386387</tamanioKB>
+            <fecCreacion>2002-06-02</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>3</codigo>
+            <nombre>app3i</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>939.7585644183762</tamanioKB>
+            <fecCreacion>2009-05-22</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>4</codigo>
+            <nombre>app4t</nombre>
+            <descripcion>Aplicacion de Viajes</descripcion>
+            <tamanioKB>211.07711224335037</tamanioKB>
+            <fecCreacion>2008-09-07</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>5</codigo>
+            <nombre>app5k</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>616.9914307218203</tamanioKB>
+            <fecCreacion>2004-06-03</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>6</codigo>
+            <nombre>app6y</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>656.0866471521333</tamanioKB>
+            <fecCreacion>2014-03-18</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>7</codigo>
+            <nombre>app7a</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>689.991592708228</tamanioKB>
+            <fecCreacion>2021-03-20</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>8</codigo>
+            <nombre>app8d</nombre>
+            <descripcion>Aplicacion de Juegos</descripcion>
+            <tamanioKB>753.6765414925009</tamanioKB>
+            <fecCreacion>1997-03-11</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>9</codigo>
+            <nombre>app9u</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>483.6351740250803</tamanioKB>
+            <fecCreacion>2009-04-27</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>10</codigo>
+            <nombre>app10m</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>930.3483307672826</tamanioKB>
+            <fecCreacion>2009-01-06</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>11</codigo>
+            <nombre>app11o</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>607.0210115300222</tamanioKB>
+            <fecCreacion>1999-04-29</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>12</codigo>
+            <nombre>app12a</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>902.8475421579257</tamanioKB>
+            <fecCreacion>2002-07-28</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>13</codigo>
+            <nombre>app13z</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>258.09904395719605</tamanioKB>
+            <fecCreacion>2023-07-28</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>14</codigo>
+            <nombre>app14b</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>393.6186621395519</tamanioKB>
+            <fecCreacion>2024-05-05</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>15</codigo>
+            <nombre>app15f</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>595.8743024213641</tamanioKB>
+            <fecCreacion>2018-09-24</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>16</codigo>
+            <nombre>app16s</nombre>
+            <descripcion>Aplicacion de Viajes</descripcion>
+            <tamanioKB>234.12792913457244</tamanioKB>
+            <fecCreacion>2008-01-17</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>17</codigo>
+            <nombre>app17k</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>249.45727238892863</tamanioKB>
+            <fecCreacion>1996-11-05</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>18</codigo>
+            <nombre>app18i</nombre>
+            <descripcion>Aplicacion de Compras</descripcion>
+            <tamanioKB>890.541917048382</tamanioKB>
+            <fecCreacion>2020-05-12</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>19</codigo>
+            <nombre>app19l</nombre>
+            <descripcion>Aplicacion de Mensajeria</descripcion>
+            <tamanioKB>462.57836736786595</tamanioKB>
+            <fecCreacion>2024-09-25</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>20</codigo>
+            <nombre>app20k</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>711.2224487071434</tamanioKB>
+            <fecCreacion>2009-04-05</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>21</codigo>
+            <nombre>app21h</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>667.5433299498976</tamanioKB>
+            <fecCreacion>2017-08-14</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>22</codigo>
+            <nombre>app22r</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>214.16644282194144</tamanioKB>
+            <fecCreacion>2021-04-15</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>23</codigo>
+            <nombre>app23m</nombre>
+            <descripcion>Aplicacion de Viajes</descripcion>
+            <tamanioKB>869.2128884773583</tamanioKB>
+            <fecCreacion>2006-08-18</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>24</codigo>
+            <nombre>app24o</nombre>
+            <descripcion>Aplicacion de Compras</descripcion>
+            <tamanioKB>1000.548016995091</tamanioKB>
+            <fecCreacion>2022-09-20</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>25</codigo>
+            <nombre>app25j</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>443.08635119685874</tamanioKB>
+            <fecCreacion>2006-08-07</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>26</codigo>
+            <nombre>app26u</nombre>
+            <descripcion>Aplicacion de Compras</descripcion>
+            <tamanioKB>405.46387834522784</tamanioKB>
+            <fecCreacion>2012-10-12</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>27</codigo>
+            <nombre>app27d</nombre>
+            <descripcion>Aplicacion de Creación</descripcion>
+            <tamanioKB>220.05784758525374</tamanioKB>
+            <fecCreacion>1996-02-24</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>28</codigo>
+            <nombre>app28u</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>631.7641200234768</tamanioKB>
+            <fecCreacion>2003-05-30</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>29</codigo>
+            <nombre>app29w</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>646.4375876079151</tamanioKB>
+            <fecCreacion>2019-10-11</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>30</codigo>
+            <nombre>app30t</nombre>
+            <descripcion>Aplicacion de Compras</descripcion>
+            <tamanioKB>130.57011932128543</tamanioKB>
+            <fecCreacion>2001-03-12</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>31</codigo>
+            <nombre>app31l</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>776.4595939937672</tamanioKB>
+            <fecCreacion>2016-10-27</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>32</codigo>
+            <nombre>app32z</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>520.6736291564507</tamanioKB>
+            <fecCreacion>2000-01-28</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>33</codigo>
+            <nombre>app33t</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>168.18884974418776</tamanioKB>
+            <fecCreacion>2014-08-12</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>34</codigo>
+            <nombre>app34s</nombre>
+            <descripcion>Aplicacion de Desarrollo</descripcion>
+            <tamanioKB>795.4459604989564</tamanioKB>
+            <fecCreacion>1997-05-17</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>35</codigo>
+            <nombre>app35p</nombre>
+            <descripcion>Aplicacion de Creación</descripcion>
+            <tamanioKB>680.3985273455628</tamanioKB>
+            <fecCreacion>1996-03-12</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>36</codigo>
+            <nombre>app36o</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>833.6912151012367</tamanioKB>
+            <fecCreacion>2000-11-30</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>37</codigo>
+            <nombre>app37n</nombre>
+            <descripcion>Aplicacion de Cuentas</descripcion>
+            <tamanioKB>441.1404224595181</tamanioKB>
+            <fecCreacion>2007-05-23</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>38</codigo>
+            <nombre>app38i</nombre>
+            <descripcion>Aplicacion de Desarrollo</descripcion>
+            <tamanioKB>663.9179837909794</tamanioKB>
+            <fecCreacion>1996-06-05</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>39</codigo>
+            <nombre>app39c</nombre>
+            <descripcion>Aplicacion de Mensajeria</descripcion>
+            <tamanioKB>288.496600020562</tamanioKB>
+            <fecCreacion>2015-07-27</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>40</codigo>
+            <nombre>app40m</nombre>
+            <descripcion>Aplicacion de Mensajeria</descripcion>
+            <tamanioKB>645.0587275788474</tamanioKB>
+            <fecCreacion>2009-03-11</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>41</codigo>
+            <nombre>app41r</nombre>
+            <descripcion>Aplicacion de Videos</descripcion>
+            <tamanioKB>342.0236129487413</tamanioKB>
+            <fecCreacion>2002-08-09</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>42</codigo>
+            <nombre>app42q</nombre>
+            <descripcion>Aplicacion de Juegos</descripcion>
+            <tamanioKB>757.976616159714</tamanioKB>
+            <fecCreacion>2011-05-27</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>43</codigo>
+            <nombre>app43v</nombre>
+            <descripcion>Aplicacion de Viajes</descripcion>
+            <tamanioKB>784.6628916811759</tamanioKB>
+            <fecCreacion>2021-01-11</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>44</codigo>
+            <nombre>app44z</nombre>
+            <descripcion>Aplicacion de Desarrollo</descripcion>
+            <tamanioKB>878.6839445858169</tamanioKB>
+            <fecCreacion>2013-12-09</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>45</codigo>
+            <nombre>app45f</nombre>
+            <descripcion>Aplicacion de Juegos</descripcion>
+            <tamanioKB>1003.8392871447595</tamanioKB>
+            <fecCreacion>2005-02-13</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>46</codigo>
+            <nombre>app46b</nombre>
+            <descripcion>Aplicacion de Llamadas</descripcion>
+            <tamanioKB>105.35207284793736</tamanioKB>
+            <fecCreacion>1995-09-29</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>47</codigo>
+            <nombre>app47w</nombre>
+            <descripcion>Aplicacion de Compras</descripcion>
+            <tamanioKB>696.6131485480513</tamanioKB>
+            <fecCreacion>1997-08-07</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>48</codigo>
+            <nombre>app48a</nombre>
+            <descripcion>Aplicacion de Red_Social</descripcion>
+            <tamanioKB>886.2450920022713</tamanioKB>
+            <fecCreacion>2015-09-19</fecCreacion>
+        </Apps>
+        <Apps>
+            <codigo>49</codigo>
+            <nombre>app49g</nombre>
+            <descripcion>Aplicacion de Desarrollo</descripcion>
+            <tamanioKB>896.4157164903476</tamanioKB>
+            <fecCreacion>2004-04-04</fecCreacion>
+        </Apps>
+    </AppXML>
+</appXML>

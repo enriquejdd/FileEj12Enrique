@@ -1,0 +1,20 @@
+{
+  "codigo" : 29,
+  "nombre" : "app29w",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 646.4375876079151,
+  "fecCreacion" : {
+    "year" : 2019,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 11,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 284,
+    "era" : "CE"
+  }
+}

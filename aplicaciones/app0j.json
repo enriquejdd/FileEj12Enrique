@@ -1,0 +1,20 @@
+{
+  "codigo" : 0,
+  "nombre" : "app0j",
+  "descripcion" : "Aplicacion de Cuentas",
+  "tamanioKB" : 204.10329624504823,
+  "fecCreacion" : {
+    "year" : 1995,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 266,
+    "era" : "CE"
+  }
+}

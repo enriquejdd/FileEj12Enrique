@@ -1,0 +1,20 @@
+{
+  "codigo" : 25,
+  "nombre" : "app25j",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 443.08635119685874,
+  "fecCreacion" : {
+    "year" : 2006,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 7,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 219,
+    "era" : "CE"
+  }
+}

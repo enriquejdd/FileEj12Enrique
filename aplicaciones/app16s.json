@@ -1,0 +1,20 @@
+{
+  "codigo" : 16,
+  "nombre" : "app16s",
+  "descripcion" : "Aplicacion de Viajes",
+  "tamanioKB" : 234.12792913457244,
+  "fecCreacion" : {
+    "year" : 2008,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 17,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 21,
+  "nombre" : "app21h",
+  "descripcion" : "Aplicacion de Videos",
+  "tamanioKB" : 667.5433299498976,
+  "fecCreacion" : {
+    "year" : 2017,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 14,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 226,
+    "era" : "CE"
+  }
+}

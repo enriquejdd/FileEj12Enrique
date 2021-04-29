@@ -1,0 +1,20 @@
+{
+  "codigo" : 31,
+  "nombre" : "app31l",
+  "descripcion" : "Aplicacion de Red_Social",
+  "tamanioKB" : 776.4595939937672,
+  "fecCreacion" : {
+    "year" : 2016,
+    "month" : "OCTOBER",
+    "monthValue" : 10,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 301,
+    "era" : "CE"
+  }
+}

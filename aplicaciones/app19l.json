@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "app19l",
+  "descripcion" : "Aplicacion de Mensajeria",
+  "tamanioKB" : 462.57836736786595,
+  "fecCreacion" : {
+    "year" : 2024,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 25,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 269,
+    "era" : "CE"
+  }
+}

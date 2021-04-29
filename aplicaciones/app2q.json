@@ -1,0 +1,20 @@
+{
+  "codigo" : 2,
+  "nombre" : "app2q",
+  "descripcion" : "Aplicacion de Creación",
+  "tamanioKB" : 159.96923905386387,
+  "fecCreacion" : {
+    "year" : 2002,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 2,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 153,
+    "era" : "CE"
+  }
+}

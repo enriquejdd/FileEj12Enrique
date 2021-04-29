@@ -1,0 +1,20 @@
+{
+  "codigo" : 28,
+  "nombre" : "app28u",
+  "descripcion" : "Aplicacion de Cuentas",
+  "tamanioKB" : 631.7641200234768,
+  "fecCreacion" : {
+    "year" : 2003,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 30,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 150,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 45,
+  "nombre" : "app45f",
+  "descripcion" : "Aplicacion de Juegos",
+  "tamanioKB" : 1003.8392871447595,
+  "fecCreacion" : {
+    "year" : 2005,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 13,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 44,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 20,
+  "nombre" : "app20k",
+  "descripcion" : "Aplicacion de Videos",
+  "tamanioKB" : 711.2224487071434,
+  "fecCreacion" : {
+    "year" : 2009,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 95,
+    "era" : "CE"
+  }
+}

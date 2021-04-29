@@ -1,0 +1,20 @@
+{
+  "codigo" : 34,
+  "nombre" : "app34s",
+  "descripcion" : "Aplicacion de Desarrollo",
+  "tamanioKB" : 795.4459604989564,
+  "fecCreacion" : {
+    "year" : 1997,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 137,
+    "era" : "CE"
+  }
+}

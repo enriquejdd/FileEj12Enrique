@@ -1,0 +1,20 @@
+{
+  "codigo" : 14,
+  "nombre" : "app14b",
+  "descripcion" : "Aplicacion de Llamadas",
+  "tamanioKB" : 393.6186621395519,
+  "fecCreacion" : {
+    "year" : 2024,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "dayOfYear" : 126,
+    "era" : "CE"
+  }
+}

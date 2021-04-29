@@ -1,0 +1,20 @@
+{
+  "codigo" : 41,
+  "nombre" : "app41r",
+  "descripcion" : "Aplicacion de Videos",
+  "tamanioKB" : 342.0236129487413,
+  "fecCreacion" : {
+    "year" : 2002,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 221,
+    "era" : "CE"
+  }
+}

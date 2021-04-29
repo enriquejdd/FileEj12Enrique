@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "app1b",
+  "descripcion" : "Aplicacion de Viajes",
+  "tamanioKB" : 262.01767159747624,
+  "fecCreacion" : {
+    "year" : 2020,
+    "month" : "SEPTEMBER",
+    "monthValue" : 9,
+    "dayOfMonth" : 7,
+    "chronology" : {
+      "calendarType" : "iso8601",
+      "id" : "ISO"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : true,
+    "dayOfYear" : 251,
+    "era" : "CE"
+  }
+}
