@@ -28,7 +28,7 @@ public class ServicioFicheroJSON {
     }
 
     // Crea tantos ficheros JSON como el tamaño del array que se le pase. Usaran la ruta del archivo pero el nombre será el de la app.
-    public static void crearListaJSONporApp(App app, String rutaYNombreArchivo) throws IOException {
+    public static void crearListaJSONporApp(App app, String rutaYNombreArchivo) {
 
         String rutaArchivo = rutaYNombreArchivo + "/" + app.getNombre() + ".json";
         ObjectMapper mapeador = new ObjectMapper();
